@@ -160,7 +160,7 @@ local function InsertOptions()
 				type = "execute",
 				name = "Install",
 				desc = "Run the installation process.",
-				func = function() E:GetModule("PluginInstaller"):Queue(InstallerData); E:ToggleOptionsUI(); end,
+				func = function() E:GetModule("PluginInstaller"):Queue(InstallerData); E:ToggleOptions(); end,
 			},
 		},
 	}
