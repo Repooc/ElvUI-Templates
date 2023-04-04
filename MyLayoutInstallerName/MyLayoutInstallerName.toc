@@ -1,8 +1,8 @@
-## Interface: 80300
-## Author: Blazeflack
+## Interface: 100007
+## Author: YourNameHere
 ## Version: 1.00
 ## Title: |cff1784d1ElvUI|r |cff4beb2cLayout Installer|r
-## Notes: Contains layouts from SomePerson
+## Notes: Contains layouts from YourNameHere
 ## RequiredDeps: ElvUI
 ## DefaultState: enabled
 
